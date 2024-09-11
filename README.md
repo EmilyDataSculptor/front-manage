@@ -5,11 +5,6 @@
 <h4 align="center">官网前台地址：https://github.com/EmilyDataSculptor/ldcms-front</h4>
 <h4 align="center">官网后台地址：https://github.com/EmilyDataSculptor/front-manage </h4>
 <h4 align="center">官网后端地址：https://github.com/EmilyDataSculptor/ldcms-rear-end </h4>
-<p align="center">
-	<a href="https://gitee.com/y_project/RuoYi/stargazers"><img src="https://gitee.com/y_project/RuoYi/badge/star.svg?theme=gvp"></a>
-	<a href="https://gitee.com/y_project/RuoYi"><img src="https://img.shields.io/badge/RuoYi-v4.7.9-brightgreen.svg"></a>
-	<a href="https://gitee.com/y_project/RuoYi/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
-</p>
 
 
 
