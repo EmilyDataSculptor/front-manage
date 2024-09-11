@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" src="https://pan.baidu.com/s/14u6zFlUUUHBDJfjJhxhoDw" style=" weight: 150px; height: 150px ">
+	<img alt="logo" src="https://pan.baidu.com/s/14u6zFlUUUHBDJfjJhxhoDw?pwd=fj3s" style=" weight: 150px; height: 150px ">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">官网后台</h1>
 <h4 align="center">官网前台地址：https://github.com/EmilyDataSculptor/ldcms-front</h4>
