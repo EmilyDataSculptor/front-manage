@@ -19,7 +19,7 @@ export default [
   {
     name: '源代码',
     icon: 'code',
-    link: 'https://github.com/8696/vue-admin-template',
+    link: 'https://github.com/EmilyDataSculptor/front-manage',
     id: 1601,
     parentId: 0
   },
