@@ -103,6 +103,6 @@ Vue.config.productionTip = false;
 
 
 // 引入axios和配置  
-const API_BASE_URL = 'http://192.168.200.128:5929'; 
+const API_BASE_URL = 'http://localhost:7777'; 
 Vue.prototype.$API_BASE_URL = API_BASE_URL;  
 
