@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" src="https://github.com/EmilyDataSculptor/ldcms-front/blob/main/public/indexLogo2.png">
+	<img alt="logo" src="https://github.com/EmilyDataSculptor/ldcms-front/blob/main/public/indexLogo2.png" style=" weight: 50px; height: 50px ">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">RuoYi v4.7.9</h1>
 <h4 align="center">基于SpringBoot开发的轻量级Java快速开发框架</h4>
