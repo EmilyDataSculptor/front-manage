@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+
+// 全居中
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// 垂直居中
+.flex-align-items-center {
+  display: flex;
+  align-items: center;
+}
+
+// 左右居中
+.flex-justify-content-center {
+  display: flex;
+  justify-content: center;
+}
+
+// 上下排列
+.flex-direction-column {
+  display: flex;
+  flex-direction: column;
+}
+
+// 左右排列
+.flex-direction-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-justify-content-space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
